@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>x64</Platforms>
+    <RootNamespace>InfiMouse.AntiDetection</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InfiMouse.Core\InfiMouse.Core.csproj" />
+    <ProjectReference Include="..\InfiMouse.Model\InfiMouse.Model.csproj" />
+  </ItemGroup>
+
+</Project>

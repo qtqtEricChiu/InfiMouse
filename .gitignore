@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+publish/
+.git/
+*.user
+*.suo
+*.cache
+*.DotSettings
