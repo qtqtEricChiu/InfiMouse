@@ -1,13 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 7212bba2991f8f5303a142113b4d9c98_79b9f34967c611f1aa625254006c9bbf
-    ReservedCode1: drvnSMB3TDRnY4d9lA7xz/JP4Dt2jmfg23kQbalp8n8iM3J6n0vSGcyiIJv9lXA+/OSD42Xw1skNspcW21omUdnhYKxHer1o4/s+9UOI/kIMlfgJoI9wMKKTHAn+ZpGiuTXB0HchtDO+gJC+zyqn6Zp3YD2o6LPHimQL7JpOYgZD63h7cV258xoH6AU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 7212bba2991f8f5303a142113b4d9c98_79b9f34967c611f1aa625254006c9bbf
-    ReservedCode2: drvnSMB3TDRnY4d9lA7xz/JP4Dt2jmfg23kQbalp8n8iM3J6n0vSGcyiIJv9lXA+/OSD42Xw1skNspcW21omUdnhYKxHer1o4/s+9UOI/kIMlfgJoI9wMKKTHAn+ZpGiuTXB0HchtDO+gJC+zyqn6Zp3YD2o6LPHimQL7JpOYgZD63h7cV258xoH6AU=
----
+<br /><br />
 
 <p align="center">
   <img src="infimouse.png" width="128" alt="InfiMouse" />
